@@ -1,1 +1,1 @@
-# VAE
+# VAE Tutorial
