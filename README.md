@@ -1,6 +1,2 @@
 # VAE Tutorial
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
