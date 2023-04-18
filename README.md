@@ -1,4 +1,5 @@
 # VAE / VAVAE 
 
-Theoretical backgrund and implementation of VAE and VQVAE.
-Dataset used: https://www.kaggle.com/datasets/ai-first/swisscoins
+Theoretical backgrund and implementation of VAE and VQVAE. <br />
+Author: Daniel Lam <br />
+Dataset: https://www.kaggle.com/datasets/ai-first/swisscoins. <br />
